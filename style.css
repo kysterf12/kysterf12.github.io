@@ -1,6 +1,6 @@
 body {
     background-color: black;
-    background-image: url(https://textures.neocities.org/textures/pattern-and-prints/GREYTILE.png);
+    background-image: url("img/bg/1005.png");
     color:aliceblue;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
@@ -56,7 +56,7 @@ a:hover {
     font-size: x-large;
 }
 
-.page-footer {
+footer {
     align-content: center;
     justify-items: center;
 }
